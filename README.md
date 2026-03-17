@@ -38,6 +38,9 @@ The artist page will focus on deeper analysis including:
 ## Data Source
 
 Dataset used: **Spotify Global Top 50**
+The dataset used in this project is included in the repository:
+
+data/spotify-top50-data.csv
 
 Typical attributes include:
 
@@ -111,6 +114,7 @@ spotify-powerbi-dashboard
 │
 └── data/
     └── dataset-info.md
+    └── spotify-top50-data.csv
 ```
 
 

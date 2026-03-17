@@ -1,0 +1,17 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
+
+# Power BI temp/cache files (if any)
+*.pbix.tmp
+
+# VS Code
+.vscode/
+
+# Python cache (future-proofing)
+__pycache__/
+*.pyc
