@@ -94,21 +94,24 @@ dax/dax-measures.md
 
 ## Project Structure
 
-'''
+## Project Structure
 
+```
 spotify-powerbi-dashboard
 │
 ├── README.md
 ├── dashboard/
-│ └── Spotify_Dashboard.pbix
+│   └── Spotify_Dashboard.pbix
+│
 ├── screenshots/
-│ └── overview-dashboard.png
+│   └── overview-dashboard.png
+│
 ├── dax/
-│ └── dax-measures.md
+│   └── dax-measures.md
+│
 └── data/
-└── dataset-info.md
-
-'''
+    └── dataset-info.md
+```
 
 
 ---
