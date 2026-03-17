@@ -103,6 +103,7 @@ dax/dax-measures.md
 spotify-powerbi-dashboard
 │
 ├── README.md
+├── gitignore
 ├── dashboard/
 │   └── Spotify_Dashboard.pbix
 │
